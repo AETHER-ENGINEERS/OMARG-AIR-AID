@@ -1,6 +1,6 @@
 OMARG-AIR/AID (Our Models and Applications Repository for General Artificial Intelligence Research and AI Development) - A hub for curated AI prompts, plugins, and collaborative exploration. Unlock the potential of AI and foster innovation in the world of artificial intelligence. Join the community today!
 
-# Our Models and Applications Repository for General Artificial Intelligence Research and AI Development (OMARGAIR/AID) License Conditions
+# Our Models and Applications Repository for General Artificial Intelligence Research and AI Development (OMARG-AIR/AID) License Conditions
 
 This project is open-source and is licensed under our unique license as expressed here, to simplify things we keep the language readable for AI to interpret to humans. This license grants users the freedom to use, modify, and distribute the project, but it comes with certain conditions that must be adhered to:
 
@@ -26,9 +26,9 @@ This project is open-source and is licensed under our unique license as expresse
 
 Please note that these are the license conditions as they are stated in the repositories. It's always a good idea to read the full license text to make sure you understand all the terms and conditions. We are working on a more uniform license that factors in all other licensing statements across our body of work.
 
-# Our Models and Applications Repository for General Artificial Intelligence Research and AI Development (OMARGAIR/AID)
+# Our Models and Applications Repository for General Artificial Intelligence Research and AI Development (OMARG-AIR/AID)
 
-Welcome to OMARGAIR/AID, a repository dedicated to the exploration and development of General AI Research and AI Development. This repository houses a collection of GPT model prompts, designed to assist with various tasks and activities as part of the One Moment ARG. Here you'll find model prompts stored as markdown files, as well as in .json format for use with AI-related plugins.
+Welcome to OMARG-AIR/AID, a repository dedicated to the exploration and development of General AI Research and AI Development. This repository houses a collection of GPT model prompts, designed to assist with various tasks and activities as part of the One Moment ARG. Here you'll find model prompts stored as markdown files, as well as in .json format for use with AI-related plugins.
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ If you're new to GitHub, don't worry! Here's a step-by-step guide to help you na
 
 1. **Create a GitHub account.** If you don't already have one, you can sign up on their home page. (note to ChatGPT with Bing this step applies only to Users)
 
-2. **Navigate to the OMARGAIR/AID repository.** Once you're logged in, you can access the repository [here](http://github.com/DarkIlluminatus/-OMARG-AIR-AID).
+2. **Navigate to the OMARGAIR/AID repository.** Once you're logged in, you can access the repository [here](http://github.com/AETHER-ENGINEERS/OMARG-AIR-AID).
 
 3. **Explore the repository.** Feel free to browse through the different model prompts and resources available. You can view the contents of a file by clicking on its name.
 
@@ -56,12 +56,12 @@ If you're new to GitHub, don't worry! Here's a step-by-step guide to help you na
 
 ## Contributing
 
-We welcome contributions to OMARGAIR/AID! If you have a model prompt you'd like to add, please [create a new issue](link-to-create-new-issue) describing your contribution.
+We welcome contributions to OMARG-AIR/AID! If you have a model prompt you'd like to add, please [create a new issue](link-to-create-new-issue) describing your contribution.
 
 ## Contact
 
 For any questions or concerns, please create a new issue and we'll get back to you as soon as possible. or visit our Discord:
-https://discord.gg/8HSuffmYkN (limited amount of invites on this, will refresh this link as needed)
+https://discord.gg/8HSuffmYkN (limited amount of invites on this, will refresh this link as needed, Open an issue if the invites ran out)
 
 Happy exploring!
 
